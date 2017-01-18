@@ -16,6 +16,11 @@
             Next
             Console.WriteLine()
         Next
+        '0000-
+        '000-0
+        '00-00
+        '0-000
+        '-0000
         Console.WriteLine()
 
         Console.WriteLine("Pattern 2")
@@ -29,6 +34,11 @@
             Next
             Console.WriteLine()
         Next
+        '-0000
+        '0-000
+        '00-00
+        '000-0
+        '0000-
         Console.WriteLine()
 
         Console.WriteLine("Pattern 3")
@@ -42,6 +52,11 @@
             Next
             Console.WriteLine()
         Next
+        '0-0-0
+        '0-0-0
+        '0-0-0
+        '0-0-0
+        '0-0-0
         Console.WriteLine()
 
         Console.WriteLine("Pattern 4")
@@ -57,6 +72,11 @@
             End If
             Console.WriteLine()
         Next
+        '00000
+        '-----
+        '00000
+        '-----
+        '00000
 
         Console.ReadLine()
     End Sub
