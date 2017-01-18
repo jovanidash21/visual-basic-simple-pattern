@@ -2,7 +2,7 @@
 ---
 ## Screenshot
 <p align="center"> 
-	<img src="https://raw.githubusercontent.com/jovanidash21/visual-simple-pattern/master/screenshot.png">
+	<img src="https://raw.githubusercontent.com/jovanidash21/visual-basic-simple-pattern/master/screenshot.png">
 </p>
 
 ## Installation
