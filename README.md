@@ -1,11 +1,8 @@
-# Visual Basic - Calculator
+# Visual Basic - Simple Pattern
 ---
-## Screenshots
+## Screenshot
 <p align="center"> 
-	<img src="https://raw.githubusercontent.com/jovanidash21/visual-basic-calculator/master/Screenshots/1.png">
-</p>
-<p align="center"> 
-	<img src="https://raw.githubusercontent.com/jovanidash21/visual-basic-calculator/master/Screenshots/2.png">
+	<img src="https://raw.githubusercontent.com/jovanidash21/visual-simple-pattern/master/screenshot.png">
 </p>
 
 ## Installation
